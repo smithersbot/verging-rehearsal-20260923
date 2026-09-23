@@ -1,0 +1,16 @@
+{
+  "format": "wiring-check/v1",
+  "stage": "wiring",
+  "wiring_check": true,
+  "product": "Rehearsal Co",
+  "release_id": "run_20260923_eaa2336edcc4",
+  "date": "2026-09-23",
+  "verified": {
+    "key_authenticated": true,
+    "report_route": "/v1/releases/run_20260923_eaa2336edcc4/report"
+  },
+  "billing": {
+    "billable": false,
+    "reason": "wiring check: free, never billed"
+  }
+}
